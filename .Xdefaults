@@ -1,0 +1,8 @@
+Xft.dpi:        96
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.antialias:  true
+Xft.hintstyle:  hintslight
+
+Xcursor.size:   8
+Xcursor.theme:  Alkano-Aluminium

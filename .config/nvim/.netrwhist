@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/sola/.dotfiles/rofi_scripts'
+let g:netrw_dirhist_2='/home/sola/Desktop'
+let g:netrw_dirhist_3='/home/sola/.dotfiles/bar'
+let g:netrw_dirhist_4='/home/sola/.dotfiles'
+let g:netrw_dirhist_5='/home/sola/.ncmpcpp'
+let g:netrw_dirhist_6='/home/sola/.dotfiles/scripts/rofi_scripts'
